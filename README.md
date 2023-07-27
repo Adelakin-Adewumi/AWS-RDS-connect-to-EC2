@@ -3,8 +3,10 @@ RDS also known as relational database is an aws database service is amanaged sql
 # Create EC2 instance
 It will be easy to connect rds to an instance when you have your instance already created. After creating your instance. Let us head to creating the rds
 # Create AWS RDS
-Search for rds on the search dashboard 
-Click on create database
+Search for rds on the search dashboard  
+Click on create database  
+Select the standard create under the database create method  
+
 Select the standard create under the database create method
 Choose mysql in the engine option
 Choose free-tier if you are just practicing. Choose production if you want to use it for production.
