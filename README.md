@@ -28,5 +28,5 @@ Executive the file by typing `./install.sh`
 This helped to install the database into the instance  
 Paste this code to connect with the MySQL instance  
 `MySQL -h endpoint -p 3306 -u admin -p`   
-Replace the endpoint with the endpoint on the created rds on the aws console  
+Replace the `endpoint` with the endpoint on the created rds on the aws console  
 We have now successfully connected our RDS database to the EC2 instance. 
